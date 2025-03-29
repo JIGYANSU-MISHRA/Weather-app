@@ -2,8 +2,6 @@
 
 A responsive weather application that displays current conditions and 5-day forecasts for any city worldwide, with dark/light mode toggle.
 
-![Weather App Screenshot](https://i.imgur.com/example-screenshot.png) <!-- Replace with actual screenshot -->
-
 ## ✨ Features
 - 🔍 Search weather by city name
 - 📌 Save recent search history (last 5 cities)
